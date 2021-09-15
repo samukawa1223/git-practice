@@ -78,6 +78,28 @@ footer {
     
     display: block;
   }
+
+  .step-box {
+    width: 90%;
+    margin: 10px auto;
+    
+    
+    background-color: #eee;
+  }
+
+
+  .step-box:first-child{
+    margin-top: 30px;
+
+  }
+
+  .step-box:last-child{
+    margin: 0 auto;
+
+    margin-bottom: 30px;
+  }
+
+
   
   
 
